@@ -1,0 +1,79 @@
+#panel {
+	position: relative;
+	margin: 0 auto;
+	width: 500px;
+	height: 500px;
+	background-color: blue;
+	box-sizing: border-box;
+}
+
+
+.card1 {
+	position:absolute;
+	left: 20px;
+	top: 20px;
+	background-color: black;
+	width: 100px;
+	height: 100px;
+}
+
+.card2 {
+	position:absolute;
+	left: 140px;
+	top: 20px;
+	background-color: black;
+	width: 100px;
+	height: 100px;
+
+}
+
+.card3 {
+	position:absolute;
+	left: 260px;
+	top: 20px;
+	background-color: black;
+	width: 100px;
+	height: 100px;
+	
+}
+
+.card4 {
+	position:absolute;
+	left: 380px;
+	top: 20px;
+	background-color: black;
+	width: 100px;
+	height: 100px;
+}
+
+.row1{
+	position:absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.row2{
+	position:absolute;
+	left: 0px;
+	top: 120px;
+}
+
+.row3{
+	position:absolute;
+	left: 0px;
+	top: 240px;
+}
+
+.row4{
+	position:absolute;
+	left: 0px;
+	top: 360px;
+}
+
+.row5 {
+	margin: 0 auto;
+	width: 500px;
+	height: 10px;
+}
+
+
